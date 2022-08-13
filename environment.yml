@@ -1,0 +1,9 @@
+name: DS_SA
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - h5py
+  - matplotlib
+  - tqdm
+  - jupyter
