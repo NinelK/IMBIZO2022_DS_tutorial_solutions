@@ -1,4 +1,4 @@
-name: DS_SA
+name: DS_Tutorial
 channels:
   - defaults
 dependencies:
